@@ -1,4 +1,4 @@
-print("Hello!Git")
+print("Hello from conflict branch")
 
 print("This is my second change")
 
