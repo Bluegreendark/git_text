@@ -1,4 +1,7 @@
+
 print("Hello from main branch")
+
+print("Hello from conflict branch")
 
 print("This is my second change")
 
